@@ -1,2 +1,4 @@
-# SoftwareDevelopment_Week_6
-Python Files from the completed Week 6 Labs
+# Software Development Week 6
+
+# Week 6: Object-oriented programming in Python
+
